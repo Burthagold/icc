@@ -1,0 +1,39 @@
+CRYPTOCOIN MARKET DISTRIBUTION METHOD AND INITIAL CURRENCY CIRCULATION
+
+PURPOSE
+
+The purpose of this document is to give an overview of the initial distribution of a cryptocoin. This document describes the outcomes of previous cryptocoin offerings and describes an alternative circulation method that should remedy the negative outcomes resulting from the current common method. This document does not address, nor intend to address, any specific cryptocoin or related technology. This is a generalization of cryptoeconomic factors that have revealed themselves publicly by the time of publishing.
+
+CRYPTOCOIN UTILITY
+
+The value of a cryptocoin is created from many elements and without those elements a cryptocoin can not sustain its existence. The value of currency comes from the utility of that currency. The utility must be tangible. Currency, by definition, is used as a medium of exchange. A cryptocoin has the potential to increase in value relative to its utility but without tangible application a cryptocoin will inevitably have no value.
+
+All cryptocoins share basic utility inherent to the nature of cryptocurrency. Cryptocoin transactions are a reliable and basic function of a cryptocoin network. This basic functionality requires additional layers of interaction to provide additional utility to users. If a currency can be exchanged for value external to the cryptocoin the utility of the currency is realized. Additional exchange creates additional utility which directly contributes to value. Cryptocoins that facilitate exchange have the potential to increase in value while cryptocoins without will not.
+
+“Speculation Distribution”
+
+Speculation Distribution occurs when the value of a cryptocoin being distributed is based on speculation rather than utility. Common practice for initial cryptocoin distribution is in the form of the Initial Coin Offering, a.k.a. the ICO. The ICO is a “Speculation Distribution”. In an ICO, a cryptocoin is announced and a feature set is revealed. Most ICOs are preceded and followed by the announcements of a series of designs for upcoming features or services that will be built after the initial quantity of cryptocoins has been sold to buyers. The promise is to bring value to the cryptocoin as a result. The value of the cryptocoin is based on speculation rather than utility.
+
+This method can be considered failed as the value of the majority of cryptocoins using this method have dropped from the initial value that was created by the speculation. The majority of cryptocoins using this method have yet to recover to any stable value or meaningful volume of trade. Cryptocoins created for the purpose of their speculative ICO and not the market demand are so far proven to fail. 
+
+Speculation Distribution places the risk on the cryptocoin buyer. Buyers of the cryptocoin make their purchase by speculation on the announcements that follow the release of the cryptocoin. There is no risk for the cryptocoin creator since no upfront development resources have been spent on the speculated features. Typically the value of the cryptocoin drops since use beyond the speculation is rarely achieved or sustained.
+
+Pure speculation is governed by Greater Fool Theory. Features of a cryptocurrency that are added for increasing speculation merely prolong the speculation effect until the inevitable conclusion of decreased value. A simple example of this is to offer additional cryptocoins to someone who has more cryptocoins. If the cryptocoins have no value beyond speculation then the feature of creating more only creates additional non-value.
+
+“Market Distribution”
+
+The alternative to “Speculation Distribution” is “Market Distribution”. Market Distribution is when a cryptocoin is distributed based on the demand from the market for which it is intended. This requires more upfront development as the value of the cryptocoin is driven by the demand in the market. Demand can only be created through utility so the utilities must exist to create value. This is better for potential cryptocoin buyers since utility can be seen rather than described. It is riskier for the cryptocoin creator since there are upfront development costs. Using the Market Distribution method the onus of speculation is placed on the cryptocoin creator, not the cryptocoin buyers.
+
+Market Distribution does not benefit from an ICO since the release of the cryptocoin before utility has been established is speculative. The creator can set goals and measures for the progression of the cryptocoin and release of the cryptocoins can be scheduled according to criteria set by the creator. If objectives are met then subsequent demand for the cryptocoin will follow resulting in value from the release of cryptocoins. If the utility does not reach levels enabling sustained development then the losses to the market have been minimized. 
+
+A cryptocoin using Market Distribution is more accountable and potentially more reliable than a cryptocoin using Speculation Distribution. Because a cryptocoin is a finite resource within its own blockchain, if the economics and growth have been properly factored, the value of the cryptocoin is far more likely to increase and create long-term value.
+
+INITIAL CURRENCY CIRCULATION - ICC
+
+An Initial Coin Offering (ICO) is associated with Speculation Distribution and the sale of cryptocoins to buyers before the utility of the cryptocoin has been established. Since Market Distribution is based on tangible utility for establishing a cryptocoin as a currency, the initial distribution of the cryptocoin is better described as the first instance of ongoing currency circulation. For easy understanding and transition, the first access to a cryptocoin after its creation can be described as the “Initial Currency Circulation”, a.k.a. ICC.
+
+CONCLUSION
+
+Speculative Distribution is a proven method for distributing a cryptocoin that results in a value of less than the initially speculated value. This loss in value can be mitigated and the effects reversed if a cryptocoin is distributed using the alternative Market Distribution method using an ICC following the completion of tangible uses for the cryptocoin. Cryptocoins using this method have potential to consistently show long-term value and growth.
+
+by H. T. Burthagold
